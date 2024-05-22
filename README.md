@@ -29,6 +29,4 @@ CRITICAL: xxxxx has password set to never expire.
 UNKNOWN: Account  test1 not found.
 ```
 
-Monitoring with Centreon and NSClient :  [asysadminstory.fr](https://asysadminstory.fr/powershell-superviser-lexpiration-des-mots-de-passe-centreon)
-
-Mon blog : https://asysadminstory.fr
+Monitoring with Centreon and NSClient:  [asysadminstory.fr](https://asysadminstory.fr/powershell-superviser-lexpiration-des-mots-de-passe-centreon)
